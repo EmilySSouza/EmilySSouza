@@ -7,11 +7,9 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/EmilySSouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmilySSouza&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilySSouza&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EmilySSouza&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilySSouza&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div style="display: inline_block"><br>
