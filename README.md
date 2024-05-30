@@ -29,3 +29,7 @@
   <a href="https://t.me/MendHendd" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
 
+<div>
+  <a href="https://app.rocketseat.com.br/me/emilyssouza"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=emilyssouza&type=card" width="280" alt="Emily Souza's Rocket ID"/></a>
+</div>
+
