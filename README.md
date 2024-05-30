@@ -7,9 +7,7 @@
 
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EmilySSouza&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilySSouza&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://app.rocketseat.com.br/me/emilyssouza"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=emilyssouza&type=card" width="280" alt="Emily Souza's Rocket ID"/></a>
 
 </div>
 <div style="display: inline_block"><br>
