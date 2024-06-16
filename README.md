@@ -19,6 +19,7 @@ Você consegue ver como anda meus estudos pela Rocketseat através do meu Rocket
         <li><a href="https://emilyssouza.github.io/BlogDeGatos/" target="_blank">Projeto 1: Blog de Gatos</a> - Projeto feito com HTML e CSS, usando Grid, animações, responsividade e acessibilidade.</li>
         <li><a href="https://emilyssouza.github.io/Fotoblog/" target="_blank">Projeto 2: FotoBlog</a> - Projeto feito com HTML e CSS, usando Grid e animações.</li>
         <li><a href="https://emilyssouza.github.io/Galaxies/" target="_blank">Projeto 3: Galaxies</a> - Projeto feito com HTML e CSS, usando Grid.</li>
+        <li><a href="https://emilyssouza.github.io/BiscoitoDaSorte/" target="_blank">Projeto 4: Biscoito da Sorte</a> - Projeto feito com HTML, CSS com animações, JavaScript usando: Funções, Arrays, Manipulação do DOM, Math().</li>
       </ul>
     </td>
     <td style="border: none; vertical-align: top;">
