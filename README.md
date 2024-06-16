@@ -24,7 +24,7 @@ Você consegue ver como anda meus estudos pela Rocketseat através do meu Rocket
     </td>
     <td style="border: none; vertical-align: top;">
       <a href="https://app.rocketseat.com.br/me/emilyssouza" target="_blank">
-        <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=emilyssouza&type=card" width="280" alt="Emily Souza's Rocket ID"/>
+        <img src="https://app.rocketseat.com.br/api/rocketid/share?slug=emilyssouza&type=card" width="400" alt="Emily Souza's Rocket ID"/>
       </a>
     </td>
   </tr>
