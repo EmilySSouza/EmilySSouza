@@ -17,9 +17,9 @@ Você consegue ver como anda meus estudos pela Rocketseat através do meu Rocket
     <td style="border: none; vertical-align: top;">
       <ul>
         <li><a href="https://emilyssouza.github.io/BlogDeGatos/" target="_blank">Projeto 1: Blog de Gatos</a> - Projeto feito com HTML e CSS, usando Grid, animações, responsividade e acessibilidade.</li>
-        <li><a href="https://emilyssouza.github.io/Fotoblog/" target="_blank">Projeto 2: FotoBlog</a> - Projeto feito com HTML e CSS, usando Grid e animações.</li>
-        <li><a href="https://emilyssouza.github.io/Galaxies/" target="_blank">Projeto 3: Galaxies</a> - Projeto feito com HTML e CSS, usando Grid.</li>
-        <li><a href="https://emilyssouza.github.io/BiscoitoDaSorte/" target="_blank">Projeto 4: Biscoito da Sorte</a> - Projeto feito com HTML, CSS com animações, JavaScript usando: Funções, Arrays, Manipulação do DOM, Math().</li>
+        <li><a href="https://github.com/EmilySSouza/BiscoitoDaSorte" target="_blank">Projeto 2: Biscoito da Sorte</a> - Projeto feito com HTML, CSS com animações, JavaScript usando: Funções, Arrays, Manipulação do DOM, Math().</li>
+        <li><a href="https://github.com/EmilySSouza/FocusTimer2v" target="_blank">Projeto 3: Focus Timer</a> - Projeto feito com HTML, CSS e JavaScript.</li>
+        <li><a href="https://github.com/EmilySSouza/SPAUniverse/" target="_blank">Projeto 4: SPAUniverse</a> - Projeto feito com HTML, CSS e JavaScript usando: Conceitos de SPA, Mapeamento de rotas, Assíncrono e promises, Orientação a objetos, Classes, npm (lite-server).</li>
       </ul>
     </td>
     <td style="border: none; vertical-align: top;">
