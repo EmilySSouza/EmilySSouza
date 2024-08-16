@@ -1,25 +1,25 @@
-# Olá!
-Olá! Eu sou Emily, mas se preferir pode me chamar de Mend. Sou apaixonada por Front-End, mas estou estudando para melhorar minhas técnicas em Back-End também. Este repositório contém uma coleção dos meus projetos que demonstram minhas habilidades e experiências, e ele está em constante crescimento assim como eu.
+# Hello!
+Hello! I'm Emily, but if you prefer, you can call me Mend. I'm passionate about Front-End, but I'm studying to improve my techniques in Back-End as well. This repository contains a collection of my projects that demonstrate my skills and experience, and it is constantly growing just like me.
 
-## Sobre Mim
-Eu sou uma desenvolvedora com experiência em uma plataforma Low Code, chamada Confirmit, nela utilizo JavaScript, HTML e CSS para fazer pesquisas. Atualmente, estou focada em estudar Full-Stack.
-- 👩‍💻 Sou Analista Desenvolvedora Jr;
-- 📚 Meus estudos: 
-  - Bacharelado em Ciência da Computação pela Descomplica.
-  - Full-Stack pela Rocketseat.
-- ♀️ Pronomes: Ela/dela
+## About Me
+I am a developer with experience on a Low Code platform, called Confirmit, where I use JavaScript, HTML and CSS to do research. Currently, I am focused on studying Full-Stack.
+- 👩‍💻 I'm a Junior Developer Analyst;
+- 📚 My studies: 
+  - Bachelor's degree in Computer Science from Descomplica.
+  - Full-Stack by Rocketseat.
+- ♀️ Pronouns: She/her
 
-## Estudos
-Você consegue ver como anda meus estudos pela Rocketseat através do meu Rocket ID, só clicar no link e conferir. (Não precisa estar logado) Aproveito para deixar alguns projetos que já fiz no curso ao lado.
+## Studies
+You can see how my studies are going at Rocketseat through my Rocket ID, just click on the link and check it out. (You don't need to be logged in) I'd like to take this opportunity to leave some projects I've already done in the course alongside.
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none; vertical-align: top;">
       <ul>
-        <li><a href="https://emilyssouza.github.io/BlogDeGatos/" target="_blank">Projeto 1: Blog de Gatos</a> - Projeto feito com HTML e CSS, usando Grid, animações, responsividade e acessibilidade.</li>
-        <li><a href="https://github.com/EmilySSouza/BiscoitoDaSorte" target="_blank">Projeto 2: Biscoito da Sorte</a> - Projeto feito com HTML, CSS com animações, JavaScript usando: Funções, Arrays, Manipulação do DOM, Math().</li>
-        <li><a href="https://github.com/EmilySSouza/FocusTimer2v" target="_blank">Projeto 3: Focus Timer</a> - Projeto feito com HTML, CSS e JavaScript.</li>
-        <li><a href="https://github.com/EmilySSouza/SPAUniverse/" target="_blank">Projeto 4: SPAUniverse</a> - Projeto feito com HTML, CSS e JavaScript usando: Conceitos de SPA, Mapeamento de rotas, Assíncrono e promises, Orientação a objetos, Classes, npm (lite-server).</li>
+        <li><a href="https://emilyssouza.github.io/BlogDeGatos/" target="_blank">Project 1: Blog de Gatos</a> - Project made with HTML and CSS, using Grid, animations, responsiveness and accessibility.</li>
+        <li><a href="https://github.com/EmilySSouza/BiscoitoDaSorte" target="_blank">Project 2: Biscoito da Sorte</a> - Project made with HTML, CSS with animations, JavaScript using: Functions, Arrays, DOM manipulation, Math().</li>
+        <li><a href="https://github.com/EmilySSouza/FocusTimer2v" target="_blank">Project 3: Focus Timer</a> - Project made with HTML, CSS and JavaScript.</li>
+        <li><a href="https://github.com/EmilySSouza/SPAUniverse/" target="_blank">Project 4: SPAUniverse</a> - Project made with HTML, CSS and JavaScript using: SPA concepts, Route mapping, Asynchronous and promises, Object orientation, Classes, npm (lite-server).</li>
       </ul>
     </td>
     <td style="border: none; vertical-align: top;">
