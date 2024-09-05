@@ -9,6 +9,12 @@ I am a developer with experience on a Low Code platform, called Confirmit, where
   - Full-Stack by Rocketseat.
 - ♀️ Pronouns: She/her
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mend-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mend-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mend-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 ## Studies
 You can see how my studies are going at Rocketseat through my Rocket ID, just click on the link and check it out. (You don't need to be logged in) I'd like to take this opportunity to leave some projects I've already done in the course alongside.
 
@@ -30,11 +36,14 @@ You can see how my studies are going at Rocketseat through my Rocket ID, just cl
   </tr>
 </table>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mend-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mend-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mend-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<br> 
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=EmilySSouza&show_icons=true&theme=radical" alt="Emily Souza Stats"/>
+</p>
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilySSouza&layout=compact&theme=radical" alt="Emily Souza most languages"/>
+</p>
 
 <br>
 
